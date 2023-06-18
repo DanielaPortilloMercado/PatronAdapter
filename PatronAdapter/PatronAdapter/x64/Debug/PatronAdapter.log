@@ -1,0 +1,22 @@
+﻿  PatronAdapter.cpp
+C:\Users\HP\source\repos\lab1204\lab1204\PatronAdapter\PatronAdapter\SquarePeg.cpp(25,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\HP\source\repos\lab1204\lab1204\PatronAdapter\PatronAdapter\TrianglePeg.cpp(21,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\HP\source\repos\lab1204\lab1204\PatronAdapter\PatronAdapter\SquarePegAdapter.cpp(24,16): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\HP\source\repos\lab1204\lab1204\PatronAdapter\PatronAdapter\SquarePegAdapter.cpp(31,16): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  RoundHole.cpp
+  RoundPeg.cpp
+  SquarePeg.cpp
+C:\Users\HP\source\repos\lab1204\lab1204\PatronAdapter\PatronAdapter\SquarePeg.cpp(25,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  SquarePegAdapter.cpp
+C:\Users\HP\source\repos\lab1204\lab1204\PatronAdapter\PatronAdapter\SquarePeg.cpp(25,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\HP\source\repos\lab1204\lab1204\PatronAdapter\PatronAdapter\TrianglePeg.cpp(21,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\HP\source\repos\lab1204\lab1204\PatronAdapter\PatronAdapter\SquarePegAdapter.cpp(24,16): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\HP\source\repos\lab1204\lab1204\PatronAdapter\PatronAdapter\SquarePegAdapter.cpp(31,16): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  TrianglePeg.cpp
+C:\Users\HP\source\repos\lab1204\lab1204\PatronAdapter\PatronAdapter\TrianglePeg.cpp(21,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  TrianglePegAdapter.cpp
+C:\Users\HP\source\repos\lab1204\lab1204\PatronAdapter\PatronAdapter\SquarePeg.cpp(25,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\HP\source\repos\lab1204\lab1204\PatronAdapter\PatronAdapter\TrianglePeg.cpp(21,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\HP\source\repos\lab1204\lab1204\PatronAdapter\PatronAdapter\TrianglePegAdapter.cpp(19,16): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+  PatronAdapter.vcxproj -> C:\Users\HP\source\repos\lab1204\lab1204\PatronAdapter\x64\Debug\PatronAdapter.exe
